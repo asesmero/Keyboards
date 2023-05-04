@@ -2,7 +2,7 @@
   "name": "asesmero 3x6",
   "vendorId": "0x0282",
   "productId": "0x0036",
-  "matrix": {"rows": 6, "cols": 6},
+  "matrix": {"rows": 3, "cols": 6},
   "layouts": {
     "labels": [],
     "keymap": [

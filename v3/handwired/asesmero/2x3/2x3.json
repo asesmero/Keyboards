@@ -2,7 +2,7 @@
   "name": "asesmero 2x3",
   "vendorId": "0x0282",
   "productId": "0x0023",
-  "matrix": {"rows": 2, "cols": 6},
+  "matrix": {"rows": 2, "cols": 3},
   "layouts": {
     "labels": [],
     "keymap": [
