@@ -1,7 +1,7 @@
 {
   "name": "asesmero 3x3",
-  "vendorId": "0x0282",
-  "productId": "0x0033",
+  "vendorId": "0x5A30",
+  "productId": "0x0303",
   "matrix": {"rows": 3, "cols": 3},
   "layouts": {
     "labels": [],

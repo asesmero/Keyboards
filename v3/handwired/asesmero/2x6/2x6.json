@@ -1,7 +1,7 @@
 {
   "name": "asesmero 2x6",
-  "vendorId": "0x0282",
-  "productId": "0x0026",
+  "vendorId": "0x5A30",
+  "productId": "0x0206",
   "matrix": {"rows": 2, "cols": 6},
   "layouts": {
     "labels": [],
